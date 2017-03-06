@@ -1,0 +1,65 @@
+https://wso2.org/jira/browse/EMM-1872,Nexus 5x and Google Pixel go inactive and don't recover,Android Plugin,sumedha@wso2.com,Highest,11/Feb/17 1:18 AM
+https://wso2.org/jira/browse/EMM-1620,Enrolment iOS 10 error,,sumedha@wso2.com,Highest,23/Sep/16 2:27 PM
+https://wso2.org/jira/browse/EMM-1874,No PostgreSQL script for social DB,,sumedha@wso2.com,High,03/Mar/17 2:56 PM
+https://wso2.org/jira/browse/EMM-1865,"Problem when inserting ""Last Name"" with multiple words in EMM console. ",,sumedha@wso2.com,High,24/Jan/17 11:20 AM
+https://wso2.org/jira/browse/EMM-1846,Assigned roles can not be deleted from the user.,User Interface,dilana@wso2.com,High,28/Nov/16 7:44 AM
+https://wso2.org/jira/browse/EMM-1836,Admin User can not view devices,User Interface,madhawap@wso2.com,High,23/Nov/16 1:03 PM
+https://wso2.org/jira/browse/EMM-1243,Authentication check of user login needs to be handled by a backend API call,User Interface,milan@wso2.com,High,15/Feb/16 3:03 PM
+https://wso2.org/jira/browse/EMM-1244,Permission check for each user action needs to be validated by a backend call,User Interface,dilshan@wso2.com,High,15/Feb/16 3:34 PM
+https://wso2.org/jira/browse/EMM-1358,Boot image file download needs to be protected ,Android Plugin,kasund@wso2.com,High,23/May/16 11:37 AM
+https://wso2.org/jira/browse/EMM-1389,Sort field must be added to pagination requests,MDM Core,prabatha@wso2.com,High,31/May/16 3:35 PM
+https://wso2.org/jira/browse/EMM-1108,[Cluster] The way a user is supposed to do the configurations in config.json in jaggeryapps needs to be improved by fixing the repetitive configuration values needed ,MDM Core,geeth@wso2.com,High,17/Dec/15 7:59 PM
+https://wso2.org/jira/browse/EMM-1876,Policy not deployed after role changed,Device Management Core,sumedha@wso2.com,Normal,06/Mar/17 2:57 PM
+https://wso2.org/jira/browse/EMM-1875,Device Model Based Policies,,rasikap@wso2.com,Normal,06/Mar/17 12:17 AM
+https://wso2.org/jira/browse/EMM-1873,Issues with -Dsetup,,sumedha@wso2.com,Normal,03/Mar/17 2:55 PM
+https://wso2.org/jira/browse/EMM-1871,EMM doesn't work as expected under tenant mode with FCM as the type of communication.,,sumedha@wso2.com,Normal,09/Feb/17 11:52 AM
+https://wso2.org/jira/browse/EMM-1870,Unable to use special characters for passwords,MDM Core,sumedha@wso2.com,Normal,09/Feb/17 6:23 AM
+https://wso2.org/jira/browse/EMM-1863,"[Android] Pending operations are send to the device, but those operations are not performed",Android Plugin,sumedha@wso2.com,Normal,19/Jan/17 2:50 PM
+https://wso2.org/jira/browse/EMM-1860,Role permission is getting removed when edit using emm web app after allow using the carbon console.,,sumedha@wso2.com,Normal,04/Jan/17 6:15 PM
+https://wso2.org/jira/browse/EMM-1851,Duplicate iOS App and webclip install occurs when one user registers two devices,,malinthafe@wso2.com,Normal,05/Dec/16 8:55 AM
+https://wso2.org/jira/browse/EMM-1849,iOS Webclip and iOS App Uninstall does not work properly,,malinthafe@wso2.com,Normal,30/Nov/16 9:49 AM
+https://wso2.org/jira/browse/EMM-1848,License,,sumedha@wso2.com,Normal,29/Nov/16 9:05 PM
+https://wso2.org/jira/browse/EMM-1839,Remove the Required mark from the Domain - iOS registeration,,sumedha@wso2.com,Normal,24/Nov/16 8:56 AM
+https://wso2.org/jira/browse/EMM-1833,"When email-policy is configured, we need to send the lastname + firstname in the policy configurations for IOS devices",iOS Plugin,sumedha@wso2.com,Normal,21/Nov/16 11:58 AM
+https://wso2.org/jira/browse/EMM-1828,"When trying to add a user/role in EMM console while SSO is enabled, exception is thrown",,sumedha@wso2.com,Normal,16/Nov/16 12:12 PM
+https://wso2.org/jira/browse/EMM-1816,By default https://localhost:9443/ redirect to carbon console - redirect to /emm instead,,sameera@wso2.com,Normal,11/Nov/16 3:02 AM
+https://wso2.org/jira/browse/EMM-1814,License for 2.0.0,,sumedha@wso2.com,Normal,10/Nov/16 3:36 PM
+https://wso2.org/jira/browse/EMM-1353,Certificat error while uploading the device cert to EMM portal on windows,,chathurad@wso2.com,Normal,16/May/16 11:00 PM
+https://wso2.org/jira/browse/EMM-1328,Validation for BYOD  - Setting the work profile - Data containerization ,,hasithad@wso2.com,Normal,26/Apr/16 10:43 PM
+https://wso2.org/jira/browse/EMM-1484,VPN Operation creates a new VPN everytime,iOS Plugin,milan@wso2.com,Normal,02/Aug/16 3:29 PM
+https://wso2.org/jira/browse/EMM-1428,Refer keystore password details from carbon.xml file,,prabatha@wso2.com,Normal,14/Jun/16 5:02 PM
+https://wso2.org/jira/browse/EMM-1131,Unable to track application installation on multiple devices,MAM,dulitha@wso2.com,Normal,22/Dec/15 4:52 AM
+https://wso2.org/jira/browse/EMM-1630,EMM android agent polling interval is not updated,Android Plugin,sumedha@wso2.com,Normal,26/Sep/16 4:27 PM
+https://wso2.org/jira/browse/EMM-1098,[EMM Cluster] Hazelcast Task issue in the worker node after the startup,MDM Core,prabatha@wso2.com,Normal,16/Dec/15 11:54 AM
+https://wso2.org/jira/browse/EMM-1648,Table '<name>.REG_LOG' doesn't exist when started with -Dsetup,MDM Core,sumedha@wso2.com,Normal,28/Sep/16 11:42 AM
+https://wso2.org/jira/browse/EMM-1311,implement the windows app installation in app manager mdm connector ,,prabatha@wso2.com,Normal,07/Apr/16 9:58 AM
+https://wso2.org/jira/browse/EMM-1623,Android Operation - Help Tips,User Interface,dilana@wso2.com,Normal,23/Sep/16 5:11 PM
+https://wso2.org/jira/browse/EMM-1541,License for 2.2.0 Alpha,,prabatha@wso2.com,Normal,10/Sep/16 7:01 AM
+https://wso2.org/jira/browse/EMM-1578,"Can't distinguish registered devices, if the same mobiles with the same model in the EMM console",,sumedha@wso2.com,Normal,19/Sep/16 9:31 AM
+https://wso2.org/jira/browse/EMM-1519,Add IEMI Attribute into Devices Listing,User Interface,prabatha@wso2.com,Normal,29/Aug/16 10:51 AM
+https://wso2.org/jira/browse/EMM-1215, Operation dialog should be improved to be flexible for customization.,User Interface,dilana@wso2.com,Normal,19/Jan/16 2:31 PM
+https://wso2.org/jira/browse/EMM-1299,Sub levels in Menu too confusing,User Interface,sachithp@wso2.com,Normal,30/Mar/16 5:03 PM
+https://wso2.org/jira/browse/EMM-1409,Provide the android.os.Build.PRODUCT parameter value in device details,,prabatha@wso2.com,Normal,02/Jun/16 2:15 PM
+https://wso2.org/jira/browse/EMM-1471,Need to support both version code and version name of android apps,,prabatha@wso2.com,Normal,18/Jul/16 3:17 PM
+https://wso2.org/jira/browse/EMM-1532,Android agent must receive the polling frequency configuration changes,Android Plugin,prabatha@wso2.com,Normal,01/Sep/16 8:53 PM
+https://wso2.org/jira/browse/EMM-1506,License for 2.1.0 RC,,prabatha@wso2.com,Normal,18/Aug/16 4:43 PM
+https://wso2.org/jira/browse/EMM-1497,Description for timestamp related parameters can be improved in the Device Management swagger def,,prabatha@wso2.com,Normal,12/Aug/16 1:47 PM
+https://wso2.org/jira/browse/EMM-1480,UI text improvements ,,prabatha@wso2.com,Normal,01/Aug/16 2:58 PM
+https://wso2.org/jira/browse/EMM-1327,Work-Profile Policy configurations - UI,User Interface,dilana@wso2.com,Normal,26/Apr/16 10:35 PM
+https://wso2.org/jira/browse/EMM-1478,User list interface does not show the correct user count for pagination,User Interface,dilana@wso2.com,Normal,01/Aug/16 11:19 AM
+https://wso2.org/jira/browse/EMM-1458,License for 2.1.0,,prabatha@wso2.com,Normal,08/Jul/16 9:23 PM
+https://wso2.org/jira/browse/EMM-1374,POST /operation/uninstall-operation: why a consumer of this API needs to provide the url and app name for uninstalling an app. Isn’t the package name itself enough? ,Android Plugin,kasund@wso2.com,Normal,24/May/16 9:40 PM
+https://wso2.org/jira/browse/EMM-1359,Remove the Certificate configurations from iOS platform configurations,,prabatha@wso2.com,Normal,23/May/16 4:30 PM
+https://wso2.org/jira/browse/EMM-1341,revamp the app black list design for BYOD,,prabatha@wso2.com,Normal,02/May/16 11:31 AM
+https://wso2.org/jira/browse/EMM-1323,Remove launcher icon of Android agent after enrollment,,inoshp@wso2.com,Normal,22/Apr/16 11:13 AM
+https://wso2.org/jira/browse/EMM-1245,Improvements in the UI process after creating the policy.,User Interface,hasunie@wso2.com,Normal,18/Feb/16 11:33 AM
+https://wso2.org/jira/browse/EMM-1310,Maximum limit for a message sent to a device,,prabatha@wso2.com,Normal,07/Apr/16 9:37 AM
+https://wso2.org/jira/browse/EMM-1293,Use US english instead of British english when naming properties,,prabatha@wso2.com,Normal,25/Mar/16 12:23 PM
+https://wso2.org/jira/browse/EMM-1202,Improve to behave policy view list as a policy priority list.,User Interface,dilana@wso2.com,Normal,19/Jan/16 1:37 PM
+https://wso2.org/jira/browse/EMM-1137,Need to show the notifications belong to each user when they have logged in,MDM Core,prabatha@wso2.com,Normal,22/Dec/15 1:05 PM
+https://wso2.org/jira/browse/EMM-1091,Jailbreak detection in iOS,iOS Plugin,prabatha@wso2.com,Normal,15/Dec/15 5:55 PM
+https://wso2.org/jira/browse/EMM-1158,Search option is missing for operations log,MDM Core,harshan@wso2.com,Low,24/Dec/15 1:43 AM
+https://wso2.org/jira/browse/EMM-933,Device status shown as 'Active' when a device is power off,Android Plugin,kasund@wso2.com,Low,05/Nov/15 10:59 AM
+https://wso2.org/jira/browse/EMM-1278,Configuration management related code needs to be refactored,Device Management Core,prabatha@wso2.com,Low,11/Mar/16 5:35 PM
+https://wso2.org/jira/browse/EMM-1237,Windows WAP-Provisioning xml should be access through objects.,Windows Plugin,hasunie@wso2.com,Low,03/Feb/16 12:48 PM
+https://wso2.org/jira/browse/EMM-1123,"In case of policy violation, a notification must be send to devices",MDM Core,geeth@wso2.com,Low,18/Dec/15 9:18 PM
