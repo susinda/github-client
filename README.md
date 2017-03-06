@@ -1,4 +1,4 @@
-# github-client
+# github-client - JIRA to GitHub migration
 
 JIRA to GitHub Issue migration
 
